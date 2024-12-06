@@ -1,8 +1,8 @@
-﻿using MoneyBot.DataAccsessLayer.Models;
+﻿using MoneyBot.DataAccessLayer.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace DataAccsessLayer.Configurations
+namespace MoneyBot.DataAccessLayer.Configurations
 {
     public class TransactionEntityTypeConfiguration : IEntityTypeConfiguration<Transaction>
     {

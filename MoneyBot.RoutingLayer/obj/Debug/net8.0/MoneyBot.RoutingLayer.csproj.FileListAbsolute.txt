@@ -9,3 +9,4 @@
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/refint/MoneyBot.RoutingLayer.dll
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.pdb
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/ref/MoneyBot.RoutingLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.sourcelink.json

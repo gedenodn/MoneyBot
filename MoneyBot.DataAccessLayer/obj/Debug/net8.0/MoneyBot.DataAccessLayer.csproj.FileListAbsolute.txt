@@ -12,3 +12,4 @@
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/obj/Debug/net8.0/MoneyBot.DataAccessLayer.pdb
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/obj/Debug/net8.0/MoneyBot.DataAccessLayer.genruntimeconfig.cache
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/obj/Debug/net8.0/ref/MoneyBot.DataAccessLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/obj/Debug/net8.0/MoneyBot.DataAccessLayer.sourcelink.json

@@ -1,7 +1,7 @@
-using MoneyBot.DataAccsessLayer.Models;
+using MoneyBot.DataAccessLayer.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace MoneyBot.DataAccsessLayer
+namespace MoneyBot.DataAccessLayer
 {
     public class MoneyBotDbContext : DbContext
     {

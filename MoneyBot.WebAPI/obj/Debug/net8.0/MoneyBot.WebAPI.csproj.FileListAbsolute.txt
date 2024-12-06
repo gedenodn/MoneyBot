@@ -135,3 +135,7 @@
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/MoneyBot.DataAccessLayer.dll
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/MoneyBot.DataAccessLayer.pdb
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/obj/Debug/net8.0/MoneyBot.WebAPI.sourcelink.json
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/Telegram.Bot.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/MoneyBot.BotLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.WebAPI/bin/Debug/net8.0/MoneyBot.BotLayer.pdb

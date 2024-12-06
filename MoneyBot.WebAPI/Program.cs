@@ -1,6 +1,6 @@
-using MoneyBot.DataAccsessLayer;
 using Microsoft.EntityFrameworkCore;
-
+using MoneyBot.BotLayer.Extensions;
+using MoneyBot.DataAccessLayer;
 
 namespace MoneyBot
 {
@@ -16,6 +16,9 @@ namespace MoneyBot
             builder.Services.AddControllers();
 
             builder.Services.AddEndpointsApiExplorer();
+            
+            builder.Services.RegisterTgBotServices(builder.Configuration);
+
 
             var app = builder.Build();
 

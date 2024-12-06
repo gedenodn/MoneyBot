@@ -1,6 +1,6 @@
 ﻿
 
-namespace MoneyBot.DataAccsessLayer.Models
+namespace MoneyBot.DataAccessLayer.Models
 {
     public class Category
     {

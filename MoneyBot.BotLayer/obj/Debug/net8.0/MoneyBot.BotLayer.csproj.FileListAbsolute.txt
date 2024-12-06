@@ -9,3 +9,5 @@
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/refint/MoneyBot.BotLayer.dll
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.pdb
 /Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/ref/MoneyBot.BotLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.csproj.AssemblyReference.cache
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.sourcelink.json
