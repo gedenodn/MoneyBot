@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBot.WebAPI", "MoneyBot.WebAPI\MoneyBot.WebAPI.csproj", "{83C2886D-BF2C-4352-A828-AAC4E248CAA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBot.DataAccessLayer", "MoneyBot.DataAccessLayer\MoneyBot.DataAccessLayer.csproj", "{7B134AF6-24EE-4858-8053-9914A1FDC569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBot.BotLayer", "MoneyBot.BotLayer\MoneyBot.BotLayer.csproj", "{AFA1D9D6-A9FC-4F16-A87F-CFD2671E034D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyBot.RoutingLayer", "MoneyBot.RoutingLayer\MoneyBot.RoutingLayer.csproj", "{B44E50BA-64DD-436C-B522-B12665F02FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83C2886D-BF2C-4352-A828-AAC4E248CAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C2886D-BF2C-4352-A828-AAC4E248CAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C2886D-BF2C-4352-A828-AAC4E248CAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C2886D-BF2C-4352-A828-AAC4E248CAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B134AF6-24EE-4858-8053-9914A1FDC569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B134AF6-24EE-4858-8053-9914A1FDC569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B134AF6-24EE-4858-8053-9914A1FDC569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B134AF6-24EE-4858-8053-9914A1FDC569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA1D9D6-A9FC-4F16-A87F-CFD2671E034D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA1D9D6-A9FC-4F16-A87F-CFD2671E034D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA1D9D6-A9FC-4F16-A87F-CFD2671E034D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA1D9D6-A9FC-4F16-A87F-CFD2671E034D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B44E50BA-64DD-436C-B522-B12665F02FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B44E50BA-64DD-436C-B522-B12665F02FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B44E50BA-64DD-436C-B522-B12665F02FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B44E50BA-64DD-436C-B522-B12665F02FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

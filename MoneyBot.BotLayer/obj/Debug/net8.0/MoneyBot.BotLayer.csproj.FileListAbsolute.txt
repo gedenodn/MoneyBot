@@ -1,0 +1,11 @@
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/bin/Debug/net8.0/MoneyBot.BotLayer.deps.json
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/bin/Debug/net8.0/MoneyBot.BotLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/bin/Debug/net8.0/MoneyBot.BotLayer.pdb
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.AssemblyInfoInputs.cache
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.AssemblyInfo.cs
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.csproj.CoreCompileInputs.cache
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/refint/MoneyBot.BotLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/MoneyBot.BotLayer.pdb
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.BotLayer/obj/Debug/net8.0/ref/MoneyBot.BotLayer.dll

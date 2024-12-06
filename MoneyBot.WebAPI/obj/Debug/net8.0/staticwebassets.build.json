@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "usH+zcIGuAVuIxhqnAxpa0XVQKJeTkHahU0DjPdJH/0=",
+  "Source": "MoneyBot.WebAPI",
+  "BasePath": "_content/MoneyBot.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

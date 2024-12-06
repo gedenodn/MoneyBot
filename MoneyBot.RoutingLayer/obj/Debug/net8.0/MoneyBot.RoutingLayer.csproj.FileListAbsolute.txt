@@ -1,0 +1,11 @@
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/bin/Debug/net8.0/MoneyBot.RoutingLayer.deps.json
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/bin/Debug/net8.0/MoneyBot.RoutingLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/bin/Debug/net8.0/MoneyBot.RoutingLayer.pdb
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.AssemblyInfoInputs.cache
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.AssemblyInfo.cs
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.csproj.CoreCompileInputs.cache
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/refint/MoneyBot.RoutingLayer.dll
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/MoneyBot.RoutingLayer.pdb
+/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.RoutingLayer/obj/Debug/net8.0/ref/MoneyBot.RoutingLayer.dll
