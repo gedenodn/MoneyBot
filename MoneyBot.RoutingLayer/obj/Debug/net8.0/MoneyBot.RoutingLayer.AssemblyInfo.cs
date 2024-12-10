@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoneyBot.RoutingLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31b75dce761eca7d746915b2cd340823db6e8e95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de835c4e512b2cd2d3bdd2c2d5bfa2323ddecf51")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyBot.RoutingLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyBot.RoutingLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

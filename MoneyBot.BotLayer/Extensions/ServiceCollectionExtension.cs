@@ -2,7 +2,7 @@
 using Telegram.Bot.Types;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using BotLayer.Handlers;
+using MoneyBot.BotLayer.Handlers;
 
 namespace MoneyBot.BotLayer.Extensions
 {

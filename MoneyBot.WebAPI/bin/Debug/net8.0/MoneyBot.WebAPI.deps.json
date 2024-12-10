@@ -745,6 +745,7 @@
       },
       "MoneyBot.BotLayer/1.0.0": {
         "dependencies": {
+          "MoneyBot.DataAccessLayer": "1.0.0",
           "Telegram.Bot": "22.2.0"
         },
         "runtime": {

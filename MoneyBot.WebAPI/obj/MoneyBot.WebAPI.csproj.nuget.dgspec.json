@@ -26,7 +26,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/MoneyBot.DataAccessLayer.csproj": {
+                "projectPath": "/Users/arturodenbakh/Projects/MoneyBot/MoneyBot.DataAccessLayer/MoneyBot.DataAccessLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

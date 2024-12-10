@@ -1,6 +1,6 @@
 ﻿using Telegram.Bot.Polling;
 
-namespace BotLayer.Handlers
+namespace MoneyBot.BotLayer.Handlers
 {
     internal interface IBaseUpdateHandler<T> : IUpdateHandler{}
 }

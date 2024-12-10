@@ -1,4 +1,4 @@
-﻿using BotLayer.Handlers;
+﻿using MoneyBot.BotLayer.Handlers;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Telegram.Bot;
