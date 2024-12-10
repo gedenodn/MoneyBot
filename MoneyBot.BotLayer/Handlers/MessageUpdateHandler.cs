@@ -1,4 +1,5 @@
-﻿using MoneyBot.BotLayer.Actions;
+﻿using System.Runtime.ConstrainedExecution;
+using MoneyBot.BotLayer.Actions;
 using MoneyBot.BotLayer.Services;
 using Telegram.Bot;
 using Telegram.Bot.Polling;
@@ -34,7 +35,7 @@ namespace MoneyBot.BotLayer.Handlers
 
             try
             {
-                var userState = await _userStateService.GetUserStateAsync(chatId);
+                var userState =  _userStateService.GetUserStateAsync(chatId);
                 Console.WriteLine($"User state: {userState}");
 
                 if (userState == "WaitingForCategoryName")
@@ -67,7 +68,7 @@ namespace MoneyBot.BotLayer.Handlers
                         text: $"Category \"{categoryName}\" created successfully!",
                         cancellationToken: cancellationToken);
 
-                    await _userStateService.SetUserStateAsync(chatId, null);
+                    await _userStateService.SetUserStateAsync(chatId, BotActions.CreateCategory);
                     return;
                 }
 
@@ -97,6 +98,11 @@ namespace MoneyBot.BotLayer.Handlers
 
                 switch (message.Text)
                 {
+                        
+                  
+                    
+                    
+
                     case BotActions.Start:
                     case BotActions.Back:
                         Console.WriteLine("Start/Back action triggered.");
@@ -111,11 +117,14 @@ namespace MoneyBot.BotLayer.Handlers
                             cancellationToken: cancellationToken);
                         break;
 
-                    default:
+                    default:                      
+                       Console.WriteLine("Dick");
                         await botClient.SendTextMessageAsync(
                             chatId: chatId,
                             text: "Unknown command. Please use the menu.",
                             cancellationToken: cancellationToken);
+                                       
+                   
                         break;
                 }
             }

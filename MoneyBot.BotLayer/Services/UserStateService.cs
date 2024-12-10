@@ -14,17 +14,17 @@ public class UserStateService
         else
         {
             Console.WriteLine($"Setting state for user {chatId}: {state}");
-            _userStates[chatId] = state;
+            _userStates.Add(chatId, state);
         }
         
         return Task.CompletedTask;
     }
 
-    public Task<string> GetUserStateAsync(long chatId)
+    public string GetUserStateAsync (long chatId)
     {
         _userStates.TryGetValue(chatId, out var state);
         Console.WriteLine($"Fetching state for user {chatId}: {state}");
-        return Task.FromResult(state);
+        return state;
     }
 }
 

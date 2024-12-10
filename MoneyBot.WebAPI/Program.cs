@@ -19,7 +19,7 @@ namespace MoneyBot
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<ExpenseService>();
             builder.Services.AddScoped<CategoryService>();
-            builder.Services.AddScoped<UserStateService>();
+            builder.Services.AddSingleton<UserStateService>();
             builder.Services.AddScoped<CallbackQueryHandler>();
 
             builder.Services.AddControllers();

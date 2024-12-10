@@ -23,6 +23,9 @@ namespace MoneyBot.BotLayer
 
         public Task StartAsync(CancellationToken cancellationToken)
         {
+            try{
+
+            
             _botClient.StartReceiving(
                 async (_botClient,update,cancellationToken) =>
                 {
@@ -49,9 +52,13 @@ namespace MoneyBot.BotLayer
                 receiverOptions:new ReceiverOptions { AllowedUpdates = Array.Empty<UpdateType>() }, 
                 _cancellationTokenSource.Token
             );
-
+            }
+            catch(Exception ex)
+            {}
             return Task.CompletedTask;
         }
+            
+        
 
         public Task StopAsync(CancellationToken cancellationToken)
         {

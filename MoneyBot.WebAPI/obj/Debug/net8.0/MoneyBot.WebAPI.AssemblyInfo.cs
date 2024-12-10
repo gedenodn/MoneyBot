@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MoneyBot.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de835c4e512b2cd2d3bdd2c2d5bfa2323ddecf51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f537d1e1d8d7ca7f47c8c366fc009c70f8aae25d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MoneyBot.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MoneyBot.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
